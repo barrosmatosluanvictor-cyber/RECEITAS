@@ -1,4 +1,4 @@
-3 ovos
+4 ovos
 farinha
 açúcar
 leite
@@ -6,7 +6,7 @@ leite
 Receita Básica (Bolo de Liquidificador)
 Esta versão rápida mistura todos os ingredientes secos e líquidos no liquidificador.
 
-3 ovos
+4 ovos
 2 xícaras de açúcar
 1 xícara de leite
 2 xícaras de farinha de trigo
